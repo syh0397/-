@@ -1,1 +1,1 @@
-# -
+# Charter Dashboard for Newbies
